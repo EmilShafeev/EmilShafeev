@@ -1,6 +1,5 @@
 ### Hi there 🐋
 
-- Today Senior QA
-- Сurrent stack WDIO + TS
-- On the way to becoming Senior NodeJS developer
-- Previously develop with Unity C# in directions: AR, VR, gamedev
+- Today <code>Senior QA</code>
+- On the way to becoming <code>💫 Senior NodeJS developer 💫</code>
+- Previously develop with Unity C# in directions: <code>AR</code>, <code>VR</code>, <code>gamedev</code>
