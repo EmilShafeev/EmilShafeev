@@ -1,5 +1,4 @@
 ### Hi there 🐋
 
-- Today <code>Senior AQA</code>
-- On the way to becoming <code>💫 🗿 💫</code>
-- Previously develop with Unity C# in directions: <code>AR</code>, <code>VR</code>, <code>gamedev</code>
+- Today <code>Golang developer</code>
+- Has exp in: <code>Game Developer AR/VR</code>, <code>Systems Analyst</code>, <code>Lead QA</code>
